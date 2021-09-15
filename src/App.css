@@ -21,6 +21,7 @@ input[type="text"] {
   margin: 8px 0;
   border-radius: 5px;
   border: 1px solid transparent;
+  outerline:none;
 }
 input[type="text"]:hover {
   border: 1px solid transparent;
